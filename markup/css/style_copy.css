@@ -301,6 +301,23 @@ table img {
   background: #fff;
 }
 
+.footer {
+  text-align: left;
+}
+
 .menu2 {
   margin: 80px 0 0;
+}
+
+.menu-item3 {
+  font-size: 16px;
+  line-height: 140.625%;
+}
+
+.menu-item3 li {
+  padding: 47px 206px 25px 0px;
+}
+
+.menu-item3 a {
+  font-weight: 500;
 }
